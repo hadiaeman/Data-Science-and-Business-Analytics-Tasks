@@ -1,5 +1,6 @@
 # Data-Science-and-Business-Analytics-Tasks
 The Sparks Foundation Tasks
+
 Task 1: Exploratory Data Analysis on Global Terrorism Dataset
 
 Tools Used
