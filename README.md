@@ -38,19 +38,15 @@ Data Loading and Preparation
 Loaded the Iris dataset and prepared the feature matrix X and target vector y.
 
 Data Splitting
-
 Split the dataset into training and testing sets with a 70-30 ratio.
 
 Model Training
-
 Created and trained a Decision Tree classifier on the training data.
 
 Model Evaluation
-
 Predicted the classes of the test set and calculated the model's accuracy.
 
 Model Visualization
-
 Visualized the Decision Tree to understand the decision-making process.
 Results
 
